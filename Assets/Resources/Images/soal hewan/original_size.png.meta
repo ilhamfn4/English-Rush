@@ -1,0 +1,790 @@
+fileFormatVersion: 2
+guid: 25febcc1b76a1f540aedad8f156966f6
+timeCreated: 1500128577
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tiger
+    21300002: Kangaroo
+    21300004: Zebra
+    21300006: Kuda-Nil
+    21300008: Bagong
+    21300010: Lion
+    21300012: Gorilla
+    21300014: Bu-aya
+    21300016: Jerapah
+    21300018: Badak
+    21300020: Monkey
+    21300022: original_size_11
+    21300024: Burung_Onta
+    21300026: Buffalo
+    21300028: Snake
+    21300030: Kangoroo
+    21300032: Kuda Nil
+    21300034: Buaya
+    21300036: original_size_8
+    21300038: original_size_9
+    21300040: original_size_10
+    21300042: original_size_12
+    21300044: Burung Unta
+    21300046: original_size_14
+    21300048: original_size_15
+    21300050: original_size_16
+    21300052: original_size_17
+    21300054: original_size_18
+    21300056: original_size_19
+    21300058: original_size_20
+    21300060: original_size_21
+    21300062: original_size_22
+    21300064: original_size_23
+    21300066: original_size_24
+    21300068: original_size_26
+    21300070: original_size_27
+    21300072: original_size_28
+    21300074: original_size_29
+    21300076: Monyet
+    21300078: original_size_31
+    21300080: original_size_32
+    21300082: original_size_33
+    21300084: original_size_34
+    21300086: original_size_35
+    21300088: original_size_36
+    21300090: original_size_38
+    21300092: original_size_39
+    21300094: original_size_40
+    21300096: original_size_41
+    21300098: original_size_42
+    21300100: original_size_43
+    21300102: original_size_44
+    21300104: original_size_45
+    21300106: original_size_46
+    21300108: Oray
+    21300110: Gajah
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiger
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3739
+        width: 1190
+        height: 1134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kangoroo
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 3772
+        width: 936
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zebra
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 3780
+        width: 1084
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kuda Nil
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 3741
+        width: 1406
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bagong
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2539
+        width: 953
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lion
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2536
+        width: 1161
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gorilla
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 2555
+        width: 1008
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buaya
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 2985
+        width: 1256
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_8
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 2790
+        width: 167
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_9
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 2958
+        width: 286
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_10
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 2958
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_11
+      rect:
+        serializedVersion: 2
+        x: 5288
+        y: 2929
+        width: 118
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_12
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 2717
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Burung Unta
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 1856
+        width: 640
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_14
+      rect:
+        serializedVersion: 2
+        x: 5108
+        y: 2710
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_15
+      rect:
+        serializedVersion: 2
+        x: 5145
+        y: 2742
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_16
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 2737
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_17
+      rect:
+        serializedVersion: 2
+        x: 5105
+        y: 2726
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_18
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 2734
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_19
+      rect:
+        serializedVersion: 2
+        x: 4893
+        y: 2689
+        width: 221
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_20
+      rect:
+        serializedVersion: 2
+        x: 3804
+        y: 2502
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_21
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 2433
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_22
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 2335
+        width: 43
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_23
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 2406
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_24
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 2386
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Badak
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1284
+        width: 1635
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_26
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 2326
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_27
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 2265
+        width: 109
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_28
+      rect:
+        serializedVersion: 2
+        x: 4078
+        y: 2335
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_29
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 2262
+        width: 272
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monyet
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 1368
+        width: 798
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_31
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 2291
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_32
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 2251
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_33
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 2165
+        width: 83
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_34
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 2095
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_35
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 2080
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_36
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 1993
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jerapah
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 970
+        height: 2061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_38
+      rect:
+        serializedVersion: 2
+        x: 4062
+        y: 1879
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_39
+      rect:
+        serializedVersion: 2
+        x: 4263
+        y: 1763
+        width: 54
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_40
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 1734
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_41
+      rect:
+        serializedVersion: 2
+        x: 4262
+        y: 1831
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_42
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1803
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_43
+      rect:
+        serializedVersion: 2
+        x: 3991
+        y: 1667
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_44
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 1638
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_45
+      rect:
+        serializedVersion: 2
+        x: 4303
+        y: 1697
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: original_size_46
+      rect:
+        serializedVersion: 2
+        x: 4501
+        y: 1494
+        width: 55
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buffalo
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 10
+        width: 1397
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Oray
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 25
+        width: 790
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gajah
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 0
+        width: 1594
+        height: 1688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
